@@ -1,0 +1,14 @@
+.body{
+    text-align: center;
+}
+
+.container{
+    height: 1000px;
+    width: 1000px;
+    padding: 0%;
+    background-color:rgb(153, 3, 3);
+}
+
+.bottom{
+    color:white;
+}
