@@ -1,6 +1,7 @@
  body{
-    background-color:black;
+    background-color:rgb(153, 3, 3);
     color: white;
+    font-family:'Times New Roman', Times, serif;
 }
 
 img {
@@ -15,6 +16,11 @@ img {
     width: 1000px;
     padding: 0%;
     background-color:rgb(153, 3, 3);
+}
+
+.card{
+height: 300px;
+width:200px;
 }
 
 .bottom{
